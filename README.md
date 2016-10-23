@@ -1,5 +1,5 @@
-# getting-and-cleaning-data-week-4-project
-Repo for Coursera's "Getting and Cleaning Data" week 4 project
+# Getting and Cleaning Data Week 4 Project
+Repo for Coursera's "Getting and Cleaning Data" Week 4 project
 
 Contains R code, codebook, and tidy data set for the assignment.
 
